@@ -21,5 +21,5 @@
 
 ##
 
-![snake animation](http://https://github.com/Rafaelgot10)
+
 
